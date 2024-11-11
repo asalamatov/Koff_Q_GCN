@@ -1,0 +1,9 @@
+.DS_Store
+combined_graphs.bin
+dgl_graph.bin
+dgl_graphs.bin
+koff_dataset/
+.ipynb_checkpoints/
+__pycache__/
+.virtual_documents/
+graphs_arr.bin
